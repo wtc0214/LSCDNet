@@ -1,5 +1,11 @@
 # LSCDNet: A Lightweight Real-Time Detection Framework for Kidney Tumor and Disease
 
+🚀 Overview
+
+LSCDNet is a lightweight and real-time object detection framework built upon YOLOv8, designed for kidney tumor and kidney disease detection in medical imaging scenarios.
+
+Unlike conventional detection models that suffer from high computational complexity and inference latency, LSCDNet focuses on achieving an optimal balance between accuracy and real-time efficiency, making it suitable for clinical and edge-device deployment.
+
 ## Model Architecture
 LSCDNet introduces three key modules to improve efficiency and real-time performance:
 - Lightweight Dynamic Convolution (LDConv)
