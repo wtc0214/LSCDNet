@@ -92,3 +92,7 @@ Run the test script to verify if the data loading is correct:
 ```bash
 python val.py
 ```
+### 6. inference scripts
+```bash
+python get_FPS.py
+```
